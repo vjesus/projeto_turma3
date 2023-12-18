@@ -1,0 +1,1 @@
+Este arquivo é utilizado para configuração do projeto
